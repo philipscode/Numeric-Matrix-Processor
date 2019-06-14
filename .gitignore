@@ -1,0 +1,13 @@
+build.gradle/
+gradle/
+gradlew
+gradlew.bat
+settings.gradle
+build/
+out/
+test/
+.DS_Store
+.gradle
+.idea
+.gitignore.swp
+build.gradle
